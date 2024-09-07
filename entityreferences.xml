@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <display>salary &lt; 10000</display>
+    <name>Rahul</name>
+    <name>Divyanshi</name>
+    <display>salary &gt; 20000</display>
+    <name>Diksha</name>
+    <name>Simran</name>
+    <edit>Employees salary less than &amp; greater than were described</edit>
+    <record>Where are the records of employees having salary equal to &quot;30000 &quot;</record>
+</Employees>

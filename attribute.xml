@@ -1,0 +1,15 @@
+<person gender="female">
+    <firstname>Annu</firstname>
+    <firstname>Geeta</firstname>
+    <firstname>Somya</firstname>
+</person>
+<student totalmarks="subjects">
+    <Hindi>90</Hindi>
+    <English>90</English>
+    <SocialScience>70</SocialScience>
+</student>
+<FAstfood items="prices">
+<Burger>Rs60</Burger>
+<Noodles>Rs80</Noodles>
+<Pizza>Rs120</Pizza>
+</FAstfood>
